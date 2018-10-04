@@ -1,0 +1,9 @@
+name: socket_io_client
+description: Dartlang port of Socket.IO (https://github.com/socketio/socket.io-client-java)
+author: Florent UGUET <florent.uguet@gmail.com>
+
+environment:
+  sdk: '>=2.0.0'
+
+dependencies:
+  logging: 'any'
